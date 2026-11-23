@@ -6,7 +6,14 @@
 </picture>
 
 ### About me
-<b> Мои хобби: танцевать, читать, писать книги, рисование.
+👋 Обо мне
+Я начинающий веб-разработчик, увлечённая созданием красивых и функциональных веб-сайтов. Сейчас активно учусь и развиваю свои навыки в frontend-разработке.
+
+🌱 Учусь: HTML, CSS, JavaScript
+📚 Постоянно изучаю новые технологии
+💡 Открыта к новым проектам и сотрудничеству
+🛠 Технологии
+HTML5 CSS3 JavaScript
 
 <!--
 **AishaLeti123/AishaLeti123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
