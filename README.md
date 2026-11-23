@@ -2,7 +2,7 @@
 ### Меня зовут Айшат и я будущий веб-разработчик.)
 
 <picture>
-  <img src="https://github.com/AishaLeti123/AishaLeti123/blob/main/%D0%B0%D1%88%D0%BE%D1%82%D0%B8%D0%BA.jpeg?raw=true" width="300"/>
+  <img src="https://i.pinimg.com/originals/1f/a7/c4/1fa7c454819f0550efac73c70bd5d216.gif?nii=t" width="300"/>
 </picture>
 
 ### About me
